@@ -13,7 +13,7 @@ Ever since I was young, I have always loved sports, particularly soccer and bask
 
 <img src="/images/warriors.png" width="200"/>
 
-Recently, I have become quite interested in the *intersection* of Sports and Tech. This year [Dapper Labs](https://www.dapperlabs.com/), a block-chain gaming company, partened with the NBA to develop [NBA Topshot](https://nbatopshot.com/), a marketplace that sells NFTs of NBA highlights as collectables. Here is an interesting quote CNBC in which Tom Richardson, a professor in digital media at Columbia University, speaks on the captivating nature of the product:
+Recently, I have become quite interested in the **intersection** of Sports and Tech. This year [Dapper Labs](https://www.dapperlabs.com/), a block-chain gaming company, partened with the NBA to develop [NBA Topshot](https://nbatopshot.com/), a marketplace that sells NFTs of NBA highlights as collectables. Here is an interesting quote CNBC in which Tom Richardson, a professor in digital media at Columbia University, speaks on the captivating nature of the product:
 >“'One of the things that have defined the digital era is we’ve moved from a world of scarcity to a world of abundance with all kinds of media assets and products,' he added. 'But the thing that defines the trading card business is a physical scarcity of the cards. So (Dapper) created these NFTs with the idea of scarcity combined with authenticity because of the way the blockchain works.'” [Citation](/citations.txt)
 
 
