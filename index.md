@@ -5,9 +5,9 @@ My name is Navika Budhraja and I'm a second year computer science major at the [
 - [Sports](#sports)
 - [Music](#music)
 - [Programming](#programming)
-- Spending time with friends and family!
+- ***Spending time with friends and family!***
 
-### Sports
+## Sports
 
 Ever since I was young, I have always loved sports, particularly soccer and basketball. As a result, I have become an avid NBA fan, and specifically, I have been a die-hard Golden-State Warriors fan since birth. 
 
@@ -17,7 +17,7 @@ Recently, I have become quite interested in the *intersection* of Sports and Tec
 >“'One of the things that have defined the digital era is we’ve moved from a world of scarcity to a world of abundance with all kinds of media assets and products,' he added. 'But the thing that defines the trading card business is a physical scarcity of the cards. So (Dapper) created these NFTs with the idea of scarcity combined with authenticity because of the way the blockchain works.'” [Citation](/citations.txt)
 
 
-### Music 
+## Music 
 
 With my freetime, I love listening to music and learning about music production. Here is a list of some of my favorite albums of all time!
 
@@ -50,7 +50,7 @@ Every month, I make myself a task-list of new albums that are recomended to me o
 - [ ] Got it All by Blxst
 
 
-### Programming 
+## Programming 
 
 Obviosuly, as CS major, I have a strong passion for programming. So, I've developed an interested in mobile development, particularly iOS Development. This past summer I worked on an iOS Application that attempted to detect negative words in speech using Apple's Speech Recognition and Machine Learning frameworks. Here is a code snippet from this project. This snippet coded a UIButton that acted as the start-stop feature in recording and recognizing someone's speech.
 
