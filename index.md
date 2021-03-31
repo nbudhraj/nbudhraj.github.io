@@ -3,8 +3,8 @@
 My name is Navika Budhraja and I'm a second year computer science major at the [University of California, San Diego](https://ucsd.edu/). Some of my hobbies include 
 
 - [Sports](#sports)
-- [Music] (#music)
-- Programming 
+- [Music](#music)
+- [Programming](#programming)
 - Spending time with friends and family!
 
 ### Sports
@@ -21,26 +21,52 @@ Recently, I have become quite interested in the *intersection* of Sports and Tec
 
 With my freetime, I love listening to music and learning about music production. Here is a list of some of my favorite albums of all time!
 
-1. Revenge of the Dreamers   
-<img src="/images/warriors.png" width="200"/>
-3. 
-4. James Monroe
-5. John Quincy Adams
+1. Revenge of the Dreamers III: Director's Cut by [Dreamville](https://en.wikipedia.org/wiki/Dreamville_Records)
+
+    <img src="/images/revenge.jpg" width="200"/>
+
+2. The Lo-Fis by [Steve Lacy](https://en.wikipedia.org/wiki/Steve_Lacy_(guitarist))
+    
+    <img src="/images/lofi.jpg" width="200"/>
+
+3. Igor by [Tyler, the Creator](https://en.wikipedia.org/wiki/Tyler,_the_Creator)
+
+    <img src="/images/igor.jpg" width="200"/>
+
+4. Bubba by [Kaytranada](https://en.wikipedia.org/wiki/Kaytranada) 
+    
+     <img src="/images/bubba.jpg" width="200"/>
+
+5. More Life by [Drake](https://en.wikipedia.org/wiki/Drake_(musician))
+    
+     <img src="/images/more.jpg" width="200"/>
 
 
-Every month, I make myself a task-list of new albums I should listen to. This is my task list from March: 
+Every month, I make myself a task-list of new albums that are recomended to me or sound interested. This is my task list from March: 
+
+- [x] Heaux Tales by Jazmine Sullivane 
+- [x] The Allegory by Royce da 5'9 
+- [ ] Collaposed in Sunbeams by Arlo Parks 
+- [ ] Got it All by Blxst
 
 
-```markdown
+### Programming 
+
+Obviosuly, as CS major, I have a strong passion for programming. So, I've developed an interested in mobile development, particularly iOS Development. This past summer I worked on an iOS Application that attempted to detect negative words in speech using Apple's Speech Recognition and Machine Learning frameworks. Here is a code snippet from this project. This snippet coded a UIButton that acted as the start-stop feature in recording and recognizing someone's speech.
+
+```
+ @IBAction func btn_start_stop(_ sender: UIButton) {
+        isStart = !isStart
+               if isStart {
+                    startSpeechRecognization()
+                    self.arrWord = [String]()
+                    btn.setTitle("STOP", for: .normal)
+               } else {
+                   cancelSpeechRecognization()
+                   btn.setTitle("START", for: .normal)
+               }
+    }
 
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nbudhraj/nbudhraj.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### [Citations]
