@@ -15,7 +15,7 @@ Ever since I was young, I always had a passion for sports, especially soccer and
 
 Recently, I have become quite interested in the **intersection** of Sports and Tech. This year [Dapper Labs](https://www.dapperlabs.com/), a block-chain company, partened with the NBA to develop [NBA Topshot](https://nbatopshot.com/), a marketplace that sells NFTs of NBA highlights as collectables. Here is an interesting quote from a CNBC article discussing NBA Topshot in which Tom Richardson, a professor in digital media at Columbia University, speaks on the popularity of NBA Topshot:
 
->“'One of the things that have defined the digital era is we’ve moved from a world of scarcity to a world of abundance with all kinds of media assets and products,' he added. 'But the thing that defines the trading card business is a physical scarcity of the cards. So (Dapper) created these NFTs with the idea of scarcity combined with authenticity because of the way the blockchain works.'” [Citation](/citations.txt)
+>“'One of the things that have defined the digital era is we’ve moved from a world of scarcity to a world of abundance with all kinds of media assets and products,' he added. 'But the thing that defines the trading card business is a physical scarcity of the cards. So (Dapper) created these NFTs with the idea of scarcity combined with authenticity because of the way the blockchain works.'” [Citation](/citations.md)
 
 
 ## Music 
@@ -70,4 +70,4 @@ Obviously, as CS major, I have a strong passion for programming. I started learn
 
 ```
 
-## [Citations](/citations.txt)
+## [Citations](/citations.md)
