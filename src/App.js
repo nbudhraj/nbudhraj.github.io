@@ -1,24 +1,20 @@
 import logo from './logo.svg';
+import ReactDOM from "react-dom";
+import { HashRouter, Routes, Route } from "react-router-dom";
 import './App.css';
+import Typewriter from 'typewriter-effect';
+import Home from './Home/Home'
+import Work from './Work/Work'
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <HashRouter>
+    <Routes>
+      <Route exact path='/' exact element={<Home />} />
+        <Route exact path='/work' exact element={<Work />} />
+    </Routes>
+    </HashRouter>
   );
 }
 
